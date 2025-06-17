@@ -2,6 +2,7 @@
 
 A high-performance agricultural land classification solution using Sentinel-2 satellite imagery, combining deep learning with gradient boosting for multi-temporal crop type identification in Côte d'Ivoire.
 
+[Competition Link](https://zindi.africa/competitions/cote-divoire-byte-sized-agriculture-challenge/leaderboard)
 ## 📊 Performance Metrics
 
 - **Public LB Score**: 0.973978144  
