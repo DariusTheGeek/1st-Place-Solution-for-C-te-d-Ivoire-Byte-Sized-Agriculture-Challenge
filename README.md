@@ -14,6 +14,9 @@ This solution addresses the Côte d'Ivoire Byte-Sized Agriculture Challenge, req
 ## 🏗️ Architecture
 
 The solution architecture follows this pipeline:
+<p align="center">
+  <img src="ByteSolution.png" alt="Pipeline Overview" width="600"/>
+</p>
 
 
 ## 🛠️ Setup Instructions
