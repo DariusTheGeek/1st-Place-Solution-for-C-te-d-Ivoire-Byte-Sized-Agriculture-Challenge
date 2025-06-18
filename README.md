@@ -41,7 +41,6 @@ The solution architecture follows this pipeline:
 - **Spectral Band Statistics**: 8 statistical measures × 12 bands × 12 months = 1,152 features  
 - **Vegetation Indices**: 101+ indices (NDVI, EVI, SAVI, etc.) using spyndex library  
 - **Temporal Features**: Month-wise aggregations and seasonal patterns  
-- **Metadata Features**: Geometric properties and data quality indicators  
 
 ### Configuration
 
